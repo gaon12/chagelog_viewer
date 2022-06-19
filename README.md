@@ -1,4 +1,4 @@
-> You can read to [English](#English_start)!
+> You can read to [English](#English)!
 
 ## 변경사항 확인 프로그램
 
