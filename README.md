@@ -1,4 +1,4 @@
-> You can read to [English](#English)!
+> You can read to English!
 
 ## 변경사항 확인 프로그램
 
@@ -88,7 +88,7 @@ iframe 태그로 불러오면 대부분의 서버에서는 (크롬 기준) 연�
 
 이슈 탭을 통해 버그를 알려주세요!
 
-## \[English\]: Changelog Viewer
+## Changelog Viewer
 
 ## Production intention
 
